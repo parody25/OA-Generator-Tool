@@ -1,0 +1,39 @@
+{
+  "template": {
+    "sections": [
+      {
+        "title": "Introduction",
+        "content_key": "intro_content",
+        "subsections": []
+      },
+      {
+        "title": "Objective",
+        "content_key": "objective_content",
+        "subsections": []
+      },
+      {
+        "title": "Procedure Steps",
+        "content_key": "steps_content",
+        "subsections": [
+          {
+            "title": "Step 1: Initial Setup",
+            "content_key": "step1_content"
+          },
+          {
+            "title": "Step 2: Configuration",
+            "content_key": "step2_content"
+          },
+          {
+            "title": "Step 3: Execution",
+            "content_key": "step3_content"
+          }
+        ]
+      },
+      {
+        "title": "Conclusion",
+        "content_key": "conclusion_content",
+        "subsections": []
+      }
+    ]
+  }
+}

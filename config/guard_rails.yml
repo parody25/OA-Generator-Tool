@@ -1,0 +1,22 @@
+models:
+  - type: main
+    engine: openai
+    model: gpt-3.5-turbo-instruct
+
+instructions:
+  - type: general
+    content: |
+      You are an assistant that validates if the response coming from LLM and the query given by user adheres to the company's policy. If the response adheres to the policy simply return the complete response that was provided to you for validation, please do not return any validation message.
+
+sample_conversation: |
+  User: What is the main topic of the first document?
+  Assistant: The main topic of the first document is [summarized content from the document].
+
+rails:
+  input:
+    flows:
+      - self check input
+
+  output:
+    flows:
+      - self check output

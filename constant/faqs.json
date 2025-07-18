@@ -1,0 +1,11 @@
+{
+  "questions": [
+      {"question": "What is the current financial status of the company?"},
+      {"question": "Can you summarize the key takeaways from the latest annual report?"},
+      {"question": "What are the major risks outlined in the company's balance sheet?"},
+      {"question": "How has the company's revenue performed over the last fiscal year?"},
+      {"question": "What are the key areas of improvement recommended for the company's operations?"}
+  ]
+}
+
+  

@@ -1,0 +1,48 @@
+{
+    "template": {
+      "sections": [
+        {
+          "title": "Summary of Changes",
+          "content_key": "summary_of_changes"
+        },
+        {
+          "title": "Highlights of the New Service",
+          "content_key": "highlights"
+        },
+        {
+          "title": "Potential Impact or Concerns",
+          "content_key": "impact"
+        },
+        {
+          "title": "Actionable Recommendations",
+          "content_key": "recommendations"
+        },
+        {
+          "title": "Responsibilities",
+          "subsections": [
+            {
+              "title": "Branch Responsibilities",
+              "content_key": "branch_responsibilities"
+            },
+            {
+              "title": "Service Manager Responsibilities",
+              "content_key": "service_manager_responsibilities"
+            },
+            {
+              "title": "Account Opening Team Responsibilities",
+              "content_key": "account_opening_team_responsibilities"
+            },
+            {
+              "title": "Compliance Team Responsibilities",
+              "content_key": "compliance_team_responsibilities"
+            },
+            {
+              "title": "Online Banking Team Responsibilities",
+              "content_key": "online_banking_team_responsibilities"
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

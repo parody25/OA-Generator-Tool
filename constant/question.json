@@ -1,0 +1,40 @@
+{
+    "questions": [
+      {
+        "category": "Account Management",
+        "question": "What is the process for opening a business account?",
+        "options": ["Visit a branch", "Apply online", "Both", "None"],
+        "answer": "Both"
+      },
+      {
+        "category": "Account Management",
+        "question": "What documents are required for a KYC verification?",
+        "options": ["Passport", "Utility Bill", "Government ID", "All of the above"],
+        "answer": "All of the above"
+      }, 
+      {
+        "category": "Loan Application",
+        "question": "What are the eligibility criteria for applying for a business loan?",
+        "options": ["Good credit score", "Steady income", "Both", "None"],
+        "answer": "Both"
+      },
+      {
+        "category": "Transaction Services",
+        "question": "What is the daily transaction limit for business accounts?",
+        "options": ["$10,000", "$50,000", "$100,000", "No limit"],
+        "answer": "$100,000"
+      },
+      {
+        "category": "Fraud Prevention",
+        "question": "What steps can account holders take to prevent fraud?",
+        "options": [
+          "Regularly monitor accounts",
+          "Avoid sharing personal details",
+          "Use secure passwords",
+          "All of the above"
+        ],
+        "answer": "All of the above"
+      }
+    ]
+  }
+  

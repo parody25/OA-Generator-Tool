@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "heading": "Business Account Opening Procedure",
+      "questions": [
+        {
+          "Overview": "What is the background of the business account opening process, including the responsibilities of various teams?"
+        },
+        {
+          "Step 1": "Explain the steps for the Personal Banker to initiate the account opening process using the IBPS system."
+        },
+        {
+          "Step 2": "What are the document-related responsibilities of the Personal Banker, including scanning and uploading?"
+        },
+        {
+          "Step 3": "Describe the verification and authorization workflow, including the roles of the Branch Manager, Service Manager, and COPs Processor."
+        },
+        {
+          "Step 4": "Explain the process of entering details for Omani Instant Sole Owner accounts, including specific input requirements in the IBPS system."
+        },
+        {
+          "Step 5": "What steps should the COPs Processor and Authorizer follow for account creation and signature capture in T24?"
+        },
+        {
+          "Step 6": "Describe the handling of account services like Internet Banking, Debit Card issuance, and SMS alerts."
+        },
+        {
+          "Step 7": "Explain the escalation and error-handling process for technical issues or incomplete applications."
+        }
+      ]
+    }
+  ]
+}

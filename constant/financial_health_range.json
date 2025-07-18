@@ -1,0 +1,10 @@
+{
+    "Revenue": [5000000,13000000],
+    "Net Profit": [2000000, 4000000],
+    "Current Ratio": [2,2.3],
+    "Debt-to-Equity Ratio": [0.6,0.9],
+    "Return on Assets": [0.06,0.09],
+    "Gross Profit Margin": [50,55],
+    "Net Profit Margin": [34,41],
+    "Asset Turnover Ratio": [0.9,1]
+}
